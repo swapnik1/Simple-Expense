@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency">
+        <item name="dollar">$</item>
+        <item name="rupees">Rs.</item>
+        <item name="pound">£</item>
+        <item name="euro">€</item>
+        <item name="yen">¥</item>
+    </string-array>
+    
+</resources>
